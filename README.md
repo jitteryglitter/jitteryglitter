@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jitteryglitter
-- 👀 I’m interested in healthcare analytics and cartography
-- 🌱 I’m currently learning to make butter chicken
-- 💞️ I’m looking to collaborate on the origins of water-laden broken grain
+- 👀 I’m interested in ML
+- 🌱 I’m currently exploring how to help SMB leverage ML in Marketing
+- 💞️ I’m looking to collaborate with folks that want to make ML accessible to the non-tech world
 - 📫 How to reach me ... later!
 
 <!---
